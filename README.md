@@ -1,2 +1,2 @@
 # dicee
-This a practice project for me. I have just ecently started web development.
+This is a practice project for me. I have just recently started web development.
